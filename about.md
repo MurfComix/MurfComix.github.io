@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+PeckCraft is a helpful Minecraft website. It will help you with all your Minecraft
+needs. There will be a advice column, a (Hopefully :) ) Minecraft Realms thingy
+and a index of all the Minecraft blocks and their crafting recipes. I Hope you have a great time using it XD!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+LOL,
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+MurfComix
