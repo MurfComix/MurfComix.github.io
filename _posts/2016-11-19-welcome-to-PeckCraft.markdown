@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to PeckCraft"
 date:   2016-11-19 18:04:13 -0500
-categories: jekyll update
+categories: Minecraft
 ---
 Hi! This is my first post EVER! The reason I made this website is because I
 wanted to share my Minecraft experiences with you! Also I would like to hear all
@@ -13,3 +13,5 @@ like you to have fun :) and I hope that my website is helpful!
 
 Thanks,
   MurfComix
+
+![Image of triforce](/img/triforce.png)
