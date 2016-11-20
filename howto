@@ -1,0 +1,29 @@
+How to start Jekyll server?
+ Click PowerShell
+ cd C:\Users\pecke\Desktop\MurfComix.github.io\
+ jekyll server -w
+
+How to view website locally?
+  Click chrome
+  click the website link that starts with 127
+
+How to publish changes?
+  click github
+  select MurfComix repository
+  click changes
+  enter something in "Summary"
+  Click "Commit to master" to commit changes
+  click Sync to upload to internet
+
+How to add an image?
+  Take screenshot using "PrtSc" or Snip
+  Open screenshot folder in OneDrive\Pictures\Screenshots
+  Then snip part of image you want and save in MurfComix.github.io/img
+  Use whatever name you want, but suggest short and simple and no caps.
+  Then use example from first post to add image in another post.
+
+How to add a new post?
+  Make a new file in _posts using YYYY-MM-DD-blah-blah.md format
+  Copy YAML from older post and paste into new file
+    YAML is the stuf between and including --- in the top of the file
+  Change the YAML values add whatever content you want
